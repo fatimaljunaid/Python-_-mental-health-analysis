@@ -4,7 +4,6 @@ A data analysis project exploring factors affecting students' mental health
 using Python, pandas, and visualization libraries.
 
 ---
-
 ## Table of Contents
 
 - [Overview](#overview)
